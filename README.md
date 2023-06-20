@@ -30,8 +30,8 @@ admin_index ubah kodenya seperti di atas.
 ```
 
 ### OUTPUT <b>
-<img src="./ss/s.png" style="margin: auto; width:600px;">
+<img src="./ss/s.png" style="margin: auto; width:800px;">
 
-<img src="./ss/s.png" style="margin: auto; width:600px;">
+<img src="./ss/s.png" style="margin: auto; width:800px;">
 
 > ini merupakan halaman artikel ketika mencari data yang diinginkan dan akan muncul seperti gambar di atas.
